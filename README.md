@@ -11,7 +11,7 @@ The animated television series South Park, co-created by Trey Parker and Matt St
 Stan Marsh, a fourth-grader, becomes dependent on the software to write both academic essays and romantic texts to his girlfriend Wendy Testaburger, which puts him in conflict with her, his classmates, and school administrators. The episode parodies the use of the artificial intelligence chatbot ChatGPT, which is acknowledged as a co-writer for the episode.
 
 ## Cast of Dubbed Video
-* Female A.I (ChatGPT) - John Peter Collin Cumpas
+* Female A.I (ChatGPT) - John Peter Colin Cumpas
 * Wendy Testaburger, Mr. Mackey, and Falconer - Renzo James Cabanos
 * Stan Marsh - Kurt Daniel Macamay
 * Kyle Broflovski, Eric Cartman, Policeman, Mr. Garrison, and Clyde Donovan - Christian Marc Musni
